@@ -11,5 +11,5 @@
 - [Question link](https://adventofcode.com/2021/day/3) - Note: use [3.txt](Assignment_2/3.txt) as your input. you can check your answer in Question link.
 - [4.pdf](Assignment_2/4.pdf)
 - [5.pdf](Assignment_2/5.pdf)
-- [6.pdf](Assignment_2/6.pdf) - Note: Develop the new algorithm for decodin the string.
+- [6.pdf](Assignment_2/6.pdf) - Note: Develop the new algorithm for decoding the string too.
 - [7.pdf](Assignment_2/7.pdf)
