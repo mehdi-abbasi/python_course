@@ -1,9 +1,9 @@
 # python_course
 
 ### Assignment-1:
-- simple calculator
-- 1.pdf
-- 2.pdf
+- simple calculator (a simple calulator with +,-,*,/,** operations.)
+- [1.pdf](Assignment_1/1.pdf)
+- [2.pdf](Assignment_1/2.pdf)
 
 #### [Solutions](Assignment_1/Solutions/Solution.md)
 
