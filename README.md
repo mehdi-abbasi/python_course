@@ -5,7 +5,7 @@
 - 1.pdf
 - 2.pdf
 
-#### [Solutions](Assignment_1/solutions/solution.md)
+#### [Solutions](Assignment_1/Solutions/Solution.md)
 
 ### Assignment-2:
 - [Question link](https://adventofcode.com/2021/day/1) - Note: use [1.txt](Assignment_2/1.txt) as your input. (Hint: search about working with files in python.The Answer is 1602) 
@@ -16,4 +16,4 @@
 - [6.pdf](Assignment_2/6.pdf) - Note: Develop the new algorithm for decoding the string too.
 - [7.pdf](Assignment_2/7.pdf)
 
-#### [Solutions](Assignment_1/solutions/solution.md)
+#### [Solutions](Assignment_2/Solutions/Solution.md)
