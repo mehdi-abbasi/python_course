@@ -14,12 +14,12 @@ for i in range(0,len(list1)):
 print(k)
 
 if k >= 3:
-    print("mamma mia")    
+    print("mamma mia!")    
 
 if k <=2 and k >=1 :
-    print("mamma mia!") 
+    print("mamma mia!!") 
 
-else : print("mamma mia!!") 
+else : print("mamma mia!!!") 
 
 
 
